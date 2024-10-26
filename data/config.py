@@ -1,0 +1,1 @@
+URL = 'https://testpages.herokuapp.com/styled/tag/dynamic-table.html'
