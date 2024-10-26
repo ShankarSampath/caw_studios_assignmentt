@@ -3,8 +3,8 @@ import pytest
 from allure_commons.types import AttachmentType
 from selenium.webdriver.common.by import By
 from seleniumbase import BaseCase
-from data import config
 from pages.dynamic_table import DynamicPage
+from data import config
 
 # Define the list of JSON objects directly in the script
 data = [
